@@ -87,7 +87,6 @@ gulp.task('observe-all', function() {
 gulp.task(
     'serve',
     [
-        //'start-mongo',
         'live-server',
         'bundle',
         'css',
