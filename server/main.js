@@ -1,5 +1,4 @@
 var express     = require('express'),
-    cors        = require('cors'),
     parser      = require('body-parser'),
     rewrite     = require('express-urlrewrite'),
     GroceryItem = require('./models/GroceryItem.js'),
@@ -10,7 +9,6 @@ require('babel/register');
 require('./database.js');
 
 app
-    .use(cors())
     .use(parser.urlencoded({
         extended : true
     }))
