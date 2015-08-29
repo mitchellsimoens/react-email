@@ -1,0 +1,10 @@
+# just some brackets editor things
+.brackets.json
+
+# install via `npm install`
+node_modules
+# install via `bower install`
+bower_components
+
+# the directory that compiled css/js are in
+dist

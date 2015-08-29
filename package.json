@@ -1,0 +1,37 @@
+{
+  "name": "react-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Simoens",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.13.3",
+    "bootstrap": "^3.3.5",
+    "cors": "^2.7.1",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "react-idispatcher": "0.0.3",
+    "react-router": "^0.13.3",
+    "react-tools": "^0.13.3",
+    "toastr": "^2.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "babelify": "^6.2.0",
+    "browser-sync": "^2.8.2",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-live-server": "0.0.25",
+    "reactify": "^1.1.1"
+  }
+}
