@@ -9,6 +9,9 @@ Uses:
  * HTML5 [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
  * [Bootstrap](http://getbootstrap.com/)
  * [Gulp](http://gulpjs.com/)
+ * [ESLint](http://eslint.org/)
+ * [Browserify](http://browserify.org/)
+ * [Babel](https://babeljs.io/)
 
 ---
 
